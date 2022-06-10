@@ -1,1 +1,1 @@
-https://iRedCode.github.io/rsschool-cv/cv
+https://iRedCode.github.io/rsschool-cv/
